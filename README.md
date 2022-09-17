@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 Output will like that
+
 ![1](https://user-images.githubusercontent.com/6648945/190854466-b7a38eb6-a143-46b5-8a11-3c308ead6312.png)
+
+![2](https://user-images.githubusercontent.com/6648945/190854941-2e80c42e-c1a6-4c0d-87f9-2d5c13e8da4b.png)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
